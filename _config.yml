@@ -1,0 +1,24 @@
+title: imkeshiba
+email: imkeshiba@gmail.com
+description: >-
+  Hey, I'm Keshiba. I'm a Software Engineer.
+  Dipping my toes into CTF challenges and InfoSec.
+  Welcome to my personal blog. Have fun here.
+baseurl: ""
+url: "http://keshiba.me"
+twitter_username: keshiba
+github_username:  keshiba
+author:
+  name: keshiba
+  email: imkeshiba@gmail.com
+
+# Build settings
+theme: better-minima
+plugins:
+  - jekyll-feed
+
+better-minima:
+  social_links:
+    twitter: imkeshiba
+    github: keshiba
+    telegram: keshiba
