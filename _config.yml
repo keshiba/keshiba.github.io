@@ -13,7 +13,7 @@ author:
   email: imkeshiba@gmail.com
 
 # Build settings
-theme: better-minima
+theme: minima
 remote-theme: "keshiba/better-minima"
 plugins:
   - jekyll-feed
