@@ -13,9 +13,11 @@ author:
   email: imkeshiba@gmail.com
 
 # Build settings
-theme: better-minima
+theme: "minima"
+remote_theme: "keshiba/better-minima"
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 better-minima:
   social_links:
