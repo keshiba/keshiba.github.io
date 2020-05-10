@@ -1,4 +1,5 @@
-# URL: [keshiba.me](https://keshiba.me)
+### URL: [keshiba.me](https://keshiba.me)
+### Theme: [better-minima](https://github.com/keshiba/better-minima)
 
 ## Welcome to my personal blog.
 
