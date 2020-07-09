@@ -1,0 +1,112 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap');
+
+$primary-color: rgb(10, 180, 80);
+$font-stack: 'Lato', sans-serif;
+$border-color: #000000;
+
+.post-header {
+  display: none;
+}
+
+.resume {
+
+  font-family: $font-stack;
+  line-height: 1.1rem;
+  font-size: 0.85rem;
+  font-weight: 400;
+
+  h1, h2, h3, h4, h5, h6 {
+    margin-top: 10px !important;
+  }
+
+  b {
+    font-weight: 900;
+  }
+
+  small {
+
+    font-size: 0.8rem;
+
+    a {
+      margin-bottom: 0.2rem;
+    }
+  }
+
+  .controls {
+
+    padding: 0.5rem 0;
+    margin-bottom: 30px;
+
+    .btn-print-resume {
+      display: block;
+      padding: 0.5rem;
+      margin: 0 auto;
+    }
+  }
+
+  .applicant-name-head {
+      font-size: 2rem;
+      font-weight: 900;
+  }
+
+  .contact-details {
+    font-weight: 900;
+    color: $primary-color;
+  }
+
+  .applicant-role-head {
+
+    color: $primary-color;
+    font-weight: 700;
+    padding-top: 0px !important;
+  }
+
+  .applicant-name-details {
+    font-weight: 700;
+  }
+
+  .header-pane, .details-pane {
+    display: inline-block;
+  }
+
+  .header-pane {
+    width: 35%;
+    vertical-align: top;
+  }
+
+  .header-pane:not(:first-child) {
+    padding: 1em 0;
+  }
+
+  .details-pane {
+    padding: 1em 0;
+    width: 64%;
+    border-top: 3px solid $border-color;
+  }
+}
+
+@media print {
+
+  /// Add margin:0 to remove URL and date headers added
+  /// by the browser.
+  @page {
+    margin: 0;
+  }
+
+  body {
+    margin: 1.6cm;
+  }
+
+  header, footer {
+    display: none !important;
+  }
+
+  .resume {
+    .controls {
+      display: none;
+    }
+  }
+}
