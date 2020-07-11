@@ -23,7 +23,7 @@ permalink: /about/
 - [HackerSploit](https://hackersploit.org/index.php) - Has great content on [YouTube](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q/)
 - [JohnHammond](https://www.youtube.com/user/RootOfTheNull) - Again, has extremely good content
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - His PwnAdventure3 series is what pulled me back into the scene again.
-- [OptionalCTF](https://twitter.com/optionalctf) - This guys is pretty hardcode
+- [OptionalCTF](https://twitter.com/optionalctf) - This guy is pretty hardcode
   - [OptionalCTF's Twitch.tv](https://www.twitch.tv/optionalctf)
 
 ![Much to learn](/assets/img/aboutme_yoda_learn.jpg)
