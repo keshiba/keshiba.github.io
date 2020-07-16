@@ -55,6 +55,31 @@ permalink: /me/resume
 
   <div class="row">
    <div class="header-pane">
+      <h5> <b> Skills </b> </h5>
+   </div>
+   <div class="details-pane">
+      <p> C# - ASP.Net MVC, Web Api, Akka.NET </p>
+      <p> Microsoft SQL, MongoDB, RabbitMQ, Redis </p>
+      <p> IoT using Arduino, Raspberry PI & ESP8266 </p>
+      <p> Java - Basic </p>
+      <p> C++ - For programming challenges </p>
+   </div>
+  </div>
+
+  <div class="row">
+   <div class="header-pane">
+      <h5> <b> Areas of Interest </b> </h5>
+   </div>
+   <div class="details-pane">
+    <ol>
+      <li> Object oriented programming </li>
+      <li> Data structures and Algorithms </li>
+      <li> Client centric UI </li>
+    </ol>
+   </div>
+  </div>
+  <div class="row">
+   <div class="header-pane">
       <h5> <b>Experience</b> </h5>
    </div>
    <div class="details-pane">
@@ -96,32 +121,6 @@ permalink: /me/resume
     <p><b> Kendriya Vidyalaya, Meenambakkam </b> / Secondary School </p>
     <p><small><i> 2009 - 2010, CHENNAI </i></small></p>
     <p><b> Percentage: 82.8% </b></p>
-   </div>
-  </div>
-
-  <div class="row">
-   <div class="header-pane">
-      <h5> <b> Skills </b> </h5>
-   </div>
-   <div class="details-pane">
-      <p> C# - ASP.Net MVC, Web Api, Akka.NET </p>
-      <p> Microsoft SQL, MongoDB, RabbitMQ, Redis </p>
-      <p> IoT using Arduino, Raspberry PI & ESP8266 </p>
-      <p> Java - Basic </p>
-      <p> C++ - For programming challenges </p>
-   </div>
-  </div>
-
-  <div class="row">
-   <div class="header-pane">
-      <h5> <b> Areas of Interest </b> </h5>
-   </div>
-   <div class="details-pane">
-    <ol>
-      <li> Object oriented programming </li>
-      <li> Data structures and Algorithms </li>
-      <li> Client centric UI </li>
-    </ol>
    </div>
   </div>
 
