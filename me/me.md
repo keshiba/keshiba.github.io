@@ -65,4 +65,4 @@ title: ""
 ###### Programming is <span class="highlight red-highlight"> LOVE </span>
 ###### Love to <span class="highlight blue-highlight"> Get My Hands Dirty </span> & Assembly makes me GRIN
 ###### Making great <span class="highlight purple-highlight"> UI is fun too </span>
-##### <span class="highlight lightgrey-highlight"> And, I'm up for a challenge. [Here's my Resume](/me/resume) </span>
+##### <span class="highlight lightgrey-highlight"> And, I'm up for a challenge. </span>
