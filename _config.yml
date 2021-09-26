@@ -15,11 +15,11 @@ google_analytics: UA-172880769-1
 
 
 # Build settings
-theme: "minima"
-remote_theme: "keshiba/better-minima"
+remote_theme: "keshiba/better-minima@v0.1.2"
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 better-minima:
   social_links:
