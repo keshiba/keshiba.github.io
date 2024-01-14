@@ -33,7 +33,7 @@ jobs:
         uses: actions/download-artifact@v4
         with:
           name: artifacts
-          path: ./spaceship/game/
+          path: ./assets/js/spaceship/
           github-token: ${{ secrets.GH_PAT }}
           repository: keshiba/game-of-life
           run-id: 7514777733
