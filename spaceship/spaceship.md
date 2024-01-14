@@ -5,6 +5,6 @@ title: ""
 ---
 
 <script type="module">
-  import init from './experiment.wasm'
+  import init from './spaceship/game/experiment.js'
   init()
 </script>
