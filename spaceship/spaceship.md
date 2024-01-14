@@ -5,6 +5,6 @@ title: ""
 ---
 
 <script type="module">
-  import init from './spaceship/game/experiment.js'
+  import init from '/assets/js/spaceship/experiment.js'
   init()
 </script>
