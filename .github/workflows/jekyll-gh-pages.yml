@@ -29,14 +29,6 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v4
-      - name: Download spaceship game
-        uses: actions/download-artifact@v4
-        with:
-          name: artifacts
-          path: ./assets/js/spaceship/
-          github-token: ${{ secrets.GH_PAT }}
-          repository: keshiba/game-of-life
-          run-id: 7514777733
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
